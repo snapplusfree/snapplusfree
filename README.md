@@ -1,5 +1,4 @@
 
-
   <meta charset="UTF-8" />
   <title>Snapchat Plus</title>
   <style>
