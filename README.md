@@ -1,5 +1,4 @@
 
-<!DOCTYPE html>
 <html lang="fr">
 <head>
   <meta charset="UTF-8" />
@@ -94,7 +93,7 @@
 
 <div class="carre">
   <h2>Snapchat Plus</h2>
-  <div id="messageLibre">⚠️ Si vous êtes chez l'opérateur cela peut ne pas fonctionner correctement (bug réseau).</div>
+  <div id="messageLibre">⚠️ Si vous êtes chez l'opérateur free cela peut ne pas fonctionner correctement (bug réseau).</div>
 
   <div id="formulaire">
     <input type="text" id="phone" placeholder="06XXXXXXXX" maxlength="10" />
